@@ -16,11 +16,12 @@ This project implements a Gallery component in React that displays an arbitrary 
 
 # Images used in Assingment
 
-1. <React-Components-Props-and-Virtual-DOM/image/hdimage6.jpeg>
-2. ![alt text](React-Components-Props-and-Virtual-DOM/image/hdimage7.jpeg)
-3. ![alt text](React-Components-Props-and-Virtual-DOM/image/hdimage8.jpeg)
-4. ![alt text](React-Components-Props-and-Virtual-DOM/image/hdimage9.jpeg)
-5. ![alt text](React-Components-Props-and-Virtual-DOM/image/hdimage10.jpeg)
+1. ![image1](React-Components-Props-and-Virtual-DOM/image/hdimage6.jpeg)
+2. ![image2](React-Components-Props-and-Virtual-DOM/image/hdimage7.jpeg)
+3. ![image3](React-Components-Props-and-Virtual-DOM/image/hdimage8.jpeg)
+4. ![image4](React-Components-Props-and-Virtual-DOM/image/hdimage9.jpeg)
+5. ![image5](React-Components-Props-and-Virtual-DOM/image/hdimage10.jpeg)
+
 
 
 
