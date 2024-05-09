@@ -16,7 +16,7 @@ This project implements a Gallery component in React that displays an arbitrary 
 
 # Images used in Assingment
 
-1. ![alt text](React-Components-Props-and-Virtual-DOM/image/hdimage6.jpeg)
+1. <React-Components-Props-and-Virtual-DOM/image/hdimage6.jpeg>
 2. ![alt text](React-Components-Props-and-Virtual-DOM/image/hdimage7.jpeg)
 3. ![alt text](React-Components-Props-and-Virtual-DOM/image/hdimage8.jpeg)
 4. ![alt text](React-Components-Props-and-Virtual-DOM/image/hdimage9.jpeg)
